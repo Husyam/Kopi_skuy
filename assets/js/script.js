@@ -1,10 +1,3 @@
-/*
-  nama : candra dwi cahyo
-  umur : 16 tahun / 20 - mei - 2004
-  github : candradwicahyo
-  email : candradwicahyo18@gmail.com
-*/
-
 AOS.init({
   once: true
 })
